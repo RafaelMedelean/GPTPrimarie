@@ -30,7 +30,8 @@
    - pune aceste fisiere in chat_backend/app
 
 4. **Seteaza cheile pentru un model de chat completitions**
-   Seteaza cheile din chat_backend/app/routes/.env
+
+    Seteaza cheile din chat_backend/app/routes/.env
     - AZURE_OPENAI_API_KEY
     - AZURE_OPENAI_API_VERSION
     - AZURE_OPENAI_ENDPOINT
