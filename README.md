@@ -26,7 +26,7 @@
    - conda activate qwen-env
 
 3. **Copiaza fisierele necesare**
-   - [Descarca de aici]**https://drive.google.com/drive/folders/1x_yynB7CyHXHp0EYKaw5p8_r2NkeeZwX?usp=sharing**
+   - [Descarca de aici](https://drive.google.com/drive/folders/1x_yynB7CyHXHp0EYKaw5p8_r2NkeeZwX?usp=sharing)
    - pune aceste fisiere in chat_backend/app
 
 5. **Run the feedback platform:**
