@@ -22,8 +22,8 @@
    - Download and install 
 
 2. **Create and Activate the Environment:**
-   conda create -n qwen-env python=3.10 -y
-   conda activate qwen-env
+   - conda create -n qwen-env python=3.10 -y
+   - conda activate qwen-env
 
 3. **Run the feedback platform:**
 
