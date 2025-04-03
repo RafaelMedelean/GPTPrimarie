@@ -29,7 +29,13 @@
    - [Descarca de aici](https://drive.google.com/drive/folders/1x_yynB7CyHXHp0EYKaw5p8_r2NkeeZwX?usp=sharing)
    - pune aceste fisiere in chat_backend/app
 
-5. **Run the feedback platform:**
+4. **Seteaza cheile pentru un model de chat completitions**
+   Seteaza cheile din chat_backend/app/routes/.env
+    - AZURE_OPENAI_API_KEY
+    - AZURE_OPENAI_API_VERSION
+    - AZURE_OPENAI_ENDPOINT
+
+6. **Run the feedback platform:**
 
     **Frontend:** 
 
