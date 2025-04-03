@@ -21,7 +21,7 @@
 1. **Install Conda:**
    - Download and install 
 
-2. **Create and Activate the Environment:**h
+2. **Create and Activate the Environment:**
    conda create -n qwen-env python=3.10 -y
    conda activate qwen-env
 
